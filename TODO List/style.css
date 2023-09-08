@@ -1,0 +1,18 @@
+
+#search{
+    max-width: 200px;
+}
+
+#records{
+   
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px rgb(42, 39, 39);
+    border: none;
+
+}
+
+#addUser:hover{
+    transition:all 0.2s ;
+  background-color:#dc3545;
+    
+}
